@@ -1,0 +1,21 @@
+{
+  "name": "6-dars-npm",
+  "version": "1.0.0",
+  "description": "Nodejs darsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nodejs",
+    "darslar"
+  ],
+  "author": "umidjondev",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
